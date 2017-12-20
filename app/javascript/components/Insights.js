@@ -2,4 +2,4 @@ import React from "react"
 import PropTypes from "prop-types"
 
 export default () =>
-  <div>hello insights</div>
+  <div>hello test component</div>
